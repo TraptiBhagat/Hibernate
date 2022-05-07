@@ -1,0 +1,16 @@
+package in.co.rays;
+
+public class TestPayment {
+	public static void main(String[] args) {
+		Cheque cheque = new Cheque();
+		cheque.setId(1);
+		cheque.setAmount(10000);
+		cheque.setChqNumber(12345);
+		cheque.setBankName("State Bank of India");
+
+		CreditCard card = new CreditCard();
+		card.setId(2);
+		card.setAmount(20000);
+		card.setCcType("Visa");
+	}
+}

@@ -1,0 +1,9 @@
+127.0.0.1 - - [19/Apr/2022:19:31:29 +0530] "GET / HTTP/1.1" 404 709
+0:0:0:0:0:0:0:1 - - [19/Apr/2022:19:31:33 +0530] "GET /ORSProject4/ HTTP/1.1" 200 520
+0:0:0:0:0:0:0:1 - - [19/Apr/2022:19:33:58 +0530] "GET /ORSProject4/WelcomeCtl HTTP/1.1" 200 1606
+0:0:0:0:0:0:0:1 - - [19/Apr/2022:19:35:18 +0530] "GET /ORSProject4/LoginCtl HTTP/1.1" 200 3208
+0:0:0:0:0:0:0:1 - - [19/Apr/2022:19:45:55 +0530] "GET /ORSProject4/ForgetPasswordCtl HTTP/1.1" 200 2436
+0:0:0:0:0:0:0:1 - - [19/Apr/2022:19:46:11 +0530] "GET /ORSProject4/ForgetPasswordCtl HTTP/1.1" 200 2436
+0:0:0:0:0:0:0:1 - - [19/Apr/2022:19:52:27 +0530] "GET /ORSProject4/LoginCtl HTTP/1.1" 200 3208
+0:0:0:0:0:0:0:1 - - [19/Apr/2022:19:52:52 +0530] "POST /ORSProject4/LoginCtl HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [19/Apr/2022:19:52:52 +0530] "GET /ORSProject4/UserRegistrationCtl HTTP/1.1" 200 5072

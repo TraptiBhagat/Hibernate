@@ -1,0 +1,175 @@
+
+Apr 02, 2022 19:07:39.61 NEW SESSION
+Apr 02, 2022 19:07:39.61 [11580:3872:0402/190739.610:ERROR:device_event_log_impl.cc(214)] [19:07:39.610] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 02, 2022 19:07:39.61 [11580:3872:0402/190739.610:ERROR:device_event_log_impl.cc(214)] [19:07:39.610] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+
+Apr 04, 2022 12:56:58.62 NEW SESSION
+Apr 04, 2022 12:56:58.62 [12212:14728:0404/125658.619:ERROR:device_event_log_impl.cc(214)] [12:56:58.618] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 04, 2022 12:56:58.68 [12212:14728:0404/125658.619:ERROR:device_event_log_impl.cc(214)] [12:56:58.619] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 05, 2022 12:49:25.74 [12212:3952:0405/124924.910:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Apr 05, 2022 12:49:26.30 [12212:11436:0405/124925.152:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+Apr 05, 2022 12:49:51.85 [12212:3952:0405/124951.853:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Apr 05, 2022 12:50:40.15 [12212:14160:0405/125040.155:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+Apr 05, 2022 12:50:50.13 [12212:3952:0405/125050.137:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Apr 05, 2022 12:52:36.38 [12212:3952:0405/125236.381:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Apr 05, 2022 12:54:26.06 [12212:3952:0405/125426.065:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Apr 05, 2022 14:49:37.96 [12212:3952:0405/144937.961:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Apr 05, 2022 14:49:37.96 [12212:3952:0405/144937.963:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Apr 05, 2022 14:50:02.36 [12212:3952:0405/145002.363:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Apr 05, 2022 14:50:06.51 [12212:3952:0405/145006.515:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Apr 05, 2022 14:50:47.71 [12212:3952:0405/145047.713:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Apr 05, 2022 14:50:52.96 [12212:3952:0405/145052.960:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Apr 05, 2022 14:52:14.53 [12212:3952:0405/145214.530:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Apr 05, 2022 14:52:26.69 [12212:3952:0405/145226.695:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Apr 05, 2022 14:55:59.13 [12212:2264:0405/145559.139:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+Apr 05, 2022 14:56:11.61 [12212:3952:0405/145611.615:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Apr 05, 2022 14:56:18.17 [12212:3952:0405/145618.169:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Apr 05, 2022 14:57:14.15 [12212:2440:0405/145714.158:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+Apr 05, 2022 15:00:21.66 [12212:2440:0405/150021.664:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+Apr 05, 2022 15:02:44.96 [12212:3952:0405/150244.963:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Apr 05, 2022 15:03:37.97 [12212:3952:0405/150337.976:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Apr 05, 2022 15:05:02.92 [12212:2264:0405/150502.926:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+Apr 05, 2022 15:12:04.82 [12212:2264:0405/151204.823:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+Apr 05, 2022 15:12:44.97 [12212:3952:0405/151244.974:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Apr 05, 2022 15:13:37.98 [12212:3952:0405/151337.983:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Apr 05, 2022 15:22:04.83 [12212:8044:0405/152204.832:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+Apr 05, 2022 15:22:44.99 [12212:3952:0405/152244.991:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Apr 05, 2022 15:23:38.00 [12212:3952:0405/152338.000:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Apr 05, 2022 15:32:04.84 [12212:13604:0405/153204.848:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+Apr 05, 2022 15:32:44.99 [12212:3952:0405/153244.998:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Apr 05, 2022 15:33:38.01 [12212:3952:0405/153338.015:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Apr 05, 2022 15:45:42.79 [12212:3952:0405/154542.790:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Apr 05, 2022 15:45:42.79 [12212:3952:0405/154542.792:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Apr 05, 2022 15:45:42.80 [12212:8044:0405/154542.801:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+Apr 05, 2022 15:55:42.79 [12212:3952:0405/155542.794:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Apr 05, 2022 15:55:42.79 [12212:3952:0405/155542.794:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Apr 05, 2022 15:55:42.80 [12212:15220:0405/155542.805:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+Apr 05, 2022 16:13:39.03 [12212:3952:0405/161339.036:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Apr 05, 2022 16:13:39.03 [12212:3952:0405/161339.036:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Apr 05, 2022 16:13:42.22 [12212:3952:0405/161342.222:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Apr 05, 2022 16:13:42.39 [12212:3952:0405/161342.224:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Apr 05, 2022 16:14:29.98 [12212:3952:0405/161429.987:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Apr 05, 2022 16:14:40.27 [12212:3952:0405/161440.278:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Apr 05, 2022 16:15:54.29 [12212:3952:0405/161554.289:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Apr 05, 2022 16:16:05.18 [12212:3952:0405/161605.188:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Apr 05, 2022 16:18:37.63 [12212:3952:0405/161837.632:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Apr 05, 2022 16:19:08.45 [12212:3952:0405/161908.453:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Apr 05, 2022 16:21:02.30 [12212:3952:0405/162102.307:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Apr 05, 2022 16:21:02.30 [12212:3952:0405/162102.307:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Apr 05, 2022 16:21:12.56 [12212:3952:0405/162112.562:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Apr 05, 2022 16:21:12.56 [12212:3952:0405/162112.562:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Apr 05, 2022 16:30:54.35 [12212:3952:0405/163054.351:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Apr 05, 2022 16:30:54.35 [12212:3952:0405/163054.351:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Apr 05, 2022 16:31:20.90 [12212:3952:0405/163120.907:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Apr 05, 2022 16:31:23.00 [12212:3952:0405/163123.004:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Apr 05, 2022 16:32:12.64 [12212:3952:0405/163212.643:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Apr 05, 2022 16:32:20.83 [12212:3952:0405/163220.832:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Apr 05, 2022 16:33:42.06 [12212:3952:0405/163342.068:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Apr 05, 2022 16:34:01.80 [12212:3952:0405/163401.799:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Apr 05, 2022 16:37:07.79 [12212:3952:0405/163707.799:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Apr 05, 2022 16:37:08.29 [12212:3952:0405/163708.290:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Apr 05, 2022 16:42:55.92 [12212:3952:0405/164255.924:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Apr 05, 2022 16:44:05.74 [12212:3952:0405/164405.741:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Apr 05, 2022 16:52:55.93 [12212:3952:0405/165255.930:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Apr 05, 2022 16:54:05.75 [12212:3952:0405/165405.755:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Apr 05, 2022 16:54:29.08 [12212:2940:0405/165429.081:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+Apr 05, 2022 16:55:14.09 [12212:8044:0405/165514.092:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+Apr 05, 2022 16:57:06.60 [12212:8600:0405/165706.604:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+Apr 05, 2022 16:57:57.07 [12212:14728:0405/165757.079:ERROR:interface_endpoint_client.cc(659)] Message 1 rejected by interface blink.mojom.WidgetHost
+Apr 05, 2022 16:59:55.37 [12212:8600:0405/165955.371:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+Apr 05, 2022 18:53:51.99 [12212:3952:0405/185351.989:ERROR:connection_handler_impl.cc(471)] Timed out waiting for GCM Protocol buffer.
+Apr 05, 2022 18:53:51.99 [12212:3952:0405/185351.996:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -7
+Apr 05, 2022 18:53:52.04 [12212:5808:0405/185352.025:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+Apr 05, 2022 18:53:52.05 [12212:3952:0405/185352.050:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Apr 05, 2022 18:53:52.05 [12212:3952:0405/185352.051:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+
+Apr 06, 2022 16:13:56.85 NEW SESSION
+Apr 06, 2022 16:13:56.85 [11980:12224:0406/161356.852:ERROR:device_event_log_impl.cc(214)] [16:13:56.852] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 06, 2022 16:13:56.87 [11980:12224:0406/161356.853:ERROR:device_event_log_impl.cc(214)] [16:13:56.853] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 06, 2022 16:13:56.91 [11980:12244:0406/161356.868:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Apr 06, 2022 16:14:18.57 [11980:12244:0406/161418.574:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Apr 06, 2022 16:15:02.78 [11980:12244:0406/161502.787:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Apr 06, 2022 16:16:40.86 [11980:12244:0406/161640.861:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Apr 06, 2022 16:19:42.77 [11980:12244:0406/161942.778:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Apr 06, 2022 16:26:03.60 [11980:12244:0406/162603.606:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Apr 06, 2022 16:36:03.62 [11980:12244:0406/163603.619:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Apr 06, 2022 16:46:03.62 [11980:12244:0406/164603.625:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Apr 06, 2022 16:56:03.63 [11980:12244:0406/165603.637:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Apr 06, 2022 17:06:03.64 [11980:12244:0406/170603.647:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Apr 06, 2022 17:16:03.65 [11980:12244:0406/171603.658:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Apr 06, 2022 17:26:03.66 [11980:12244:0406/172603.663:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Apr 06, 2022 17:36:03.67 [11980:12244:0406/173603.677:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Apr 06, 2022 17:46:03.68 [11980:12244:0406/174603.687:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Apr 06, 2022 17:56:03.70 [11980:12244:0406/175603.700:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Apr 06, 2022 18:06:03.71 [11980:12244:0406/180603.709:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Apr 06, 2022 18:16:03.71 [11980:12244:0406/181603.711:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Apr 06, 2022 19:02:14.54 [11980:12244:0406/190214.541:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Apr 06, 2022 19:12:14.55 [11980:12244:0406/191214.556:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Apr 06, 2022 19:22:14.57 [11980:12244:0406/192214.573:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Apr 06, 2022 22:33:42.26 [11980:12244:0406/223342.262:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Apr 07, 2022 11:40:54.91 [11980:12244:0407/114054.916:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Apr 07, 2022 11:41:48.77 [11980:12244:0407/114148.774:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Apr 07, 2022 11:43:29.11 [11980:12244:0407/114329.118:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Apr 07, 2022 15:08:53.85 [11980:12244:0407/150853.855:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Apr 07, 2022 15:08:53.85 [11980:12244:0407/150853.855:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Apr 07, 2022 16:06:57.96 [11980:12244:0407/160657.966:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Apr 07, 2022 16:06:57.97 [11980:12244:0407/160657.968:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Apr 07, 2022 16:07:19.93 [11980:12244:0407/160719.931:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Apr 07, 2022 16:07:26.58 [11980:12244:0407/160726.584:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Apr 07, 2022 16:08:02.57 [11980:12244:0407/160802.578:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Apr 07, 2022 16:08:25.47 [11980:12244:0407/160825.476:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Apr 07, 2022 16:09:29.49 [11980:12244:0407/160929.495:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Apr 07, 2022 16:09:52.36 [11980:12244:0407/160952.360:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Apr 07, 2022 16:12:45.03 [11980:12244:0407/161245.031:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Apr 07, 2022 16:13:10.11 [11980:12244:0407/161310.114:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Apr 07, 2022 16:13:31.82 [11980:12244:0407/161331.825:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Apr 07, 2022 16:13:31.82 [11980:12244:0407/161331.825:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Apr 07, 2022 16:13:40.47 [11980:12244:0407/161340.471:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Apr 07, 2022 16:13:46.09 [11980:12244:0407/161346.094:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Apr 07, 2022 16:13:47.04 [11980:12244:0407/161347.046:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Apr 07, 2022 16:13:49.39 [11980:12244:0407/161349.396:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Apr 07, 2022 16:13:49.40 [11980:12244:0407/161349.405:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Apr 07, 2022 18:50:34.38 [11980:12244:0407/185034.384:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Apr 07, 2022 18:50:34.38 [11980:12244:0407/185034.384:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Apr 07, 2022 22:45:54.36 [11980:12244:0407/224554.362:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Apr 08, 2022 12:05:03.22 [11980:12244:0408/120503.224:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Apr 08, 2022 12:05:04.34 [11980:12328:0408/120503.226:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+Apr 08, 2022 12:05:44.13 [11980:12244:0408/120544.138:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Apr 08, 2022 12:07:39.88 [11980:12244:0408/120739.880:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Apr 08, 2022 12:09:25.77 [11980:12328:0408/120925.773:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+Apr 08, 2022 12:10:33.30 [11980:12244:0408/121033.303:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Apr 08, 2022 12:10:40.77 [11980:4620:0408/121040.776:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+Apr 08, 2022 12:11:09.37 [11980:12244:0408/121109.376:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Apr 08, 2022 14:08:47.06 [11980:12244:0408/140847.065:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Apr 08, 2022 14:09:11.83 [11980:12244:0408/140911.839:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Apr 08, 2022 14:09:55.12 [11980:12244:0408/140955.119:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Apr 08, 2022 14:11:28.10 [11980:12244:0408/141128.108:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Apr 08, 2022 14:14:46.92 [11980:12244:0408/141446.927:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Apr 08, 2022 16:43:32.17 [11980:12244:0408/164332.008:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Apr 08, 2022 16:43:32.17 [11980:13332:0408/164332.012:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+Apr 08, 2022 18:30:14.03 [11980:12244:0408/183014.031:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Apr 08, 2022 18:30:24.88 [11980:12244:0408/183024.884:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Apr 09, 2022 12:30:37.52 [12036:8336:0409/123037.526:ERROR:device_event_log_impl.cc(214)] [12:30:37.526] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 09, 2022 12:30:37.58 [12036:8336:0409/123037.588:ERROR:device_event_log_impl.cc(214)] [12:30:37.587] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 09, 2022 12:31:33.79 [12036:12236:0409/123133.792:ERROR:util.cc(126)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Apr 09, 2022 16:00:15.06 [12036:7584:0409/160015.057:ERROR:mcs_client.cc(755)] Received close command, resetting connection.
+Apr 09, 2022 17:08:29.75 [12036:8336:0409/170829.758:ERROR:interface_endpoint_client.cc(659)] Message 0 rejected by interface blink.mojom.WidgetHost
+Apr 09, 2022 20:26:07.71 [12036:7584:0409/202607.714:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Apr 12, 2022 12:10:01.26 [12036:7584:0412/121001.266:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Apr 12, 2022 12:10:03.56 [12036:12704:0412/121001.900:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+Apr 12, 2022 12:10:06.44 [12036:7584:0412/121006.443:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Apr 12, 2022 12:10:07.18 [12036:7584:0412/121007.186:ERROR:registration_request.cc(247)] Registration URL fetching failed.
+Apr 12, 2022 12:10:07.18 [12036:7584:0412/121007.186:ERROR:registration_request.cc(247)] Registration URL fetching failed.
+Apr 12, 2022 12:10:25.77 [12036:12280:0412/121025.779:ERROR:util.cc(126)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Apr 12, 2022 12:10:29.26 [12036:7584:0412/121029.263:ERROR:registration_request.cc(247)] Registration URL fetching failed.
+Apr 12, 2022 12:10:36.11 [12036:7584:0412/121036.113:ERROR:registration_request.cc(247)] Registration URL fetching failed.
+Apr 12, 2022 12:10:39.59 [12036:8336:0412/121039.595:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Apr 12, 2022 12:10:56.72 [12036:7584:0412/121056.727:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Apr 12, 2022 12:11:25.31 [12036:7584:0412/121125.318:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Apr 12, 2022 12:11:26.19 [12036:7584:0412/121126.198:ERROR:registration_request.cc(247)] Registration URL fetching failed.
+Apr 12, 2022 12:11:32.56 [12036:8336:0412/121132.564:ERROR:device_event_log_impl.cc(214)] [12:11:32.525] USB: usb_service_win.cc:260 Failed to get device driver name: Element not found. (0x490)
+Apr 12, 2022 12:11:54.21 [12036:7584:0412/121154.218:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Apr 12, 2022 12:12:44.56 [12036:7584:0412/121244.566:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Apr 12, 2022 12:13:05.03 [12036:7584:0412/121305.032:ERROR:registration_request.cc(247)] Registration URL fetching failed.
+Apr 12, 2022 12:14:38.27 [12036:7584:0412/121438.271:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Apr 12, 2022 12:16:10.56 [12036:7584:0412/121610.566:ERROR:registration_request.cc(247)] Registration URL fetching failed.

@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<!-- Generated Apr 19, 2022 3:32:57 PM by Hibernate Tools 3.5.0.Final -->
+<hibernate-mapping>
+	<class name="in.co.rays.Payment" table="PAYMENT">
+		<id name="id" type="long">
+			<column name="ID" />
+			<generator class="assigned" />
+		</id>
+		<discriminator column="Payment_Type" type="string"></discriminator>
+		<property name="amount" type="float">
+			<column name="AMOUNT" />
+		</property>
+
+		<subclass name="in.co.rays.CreditCard"
+			discriminator-value="CreditCard">
+			<join table="CREDIT_PAYMENT">
+				<key column="PAYMENT_ID" />
+				<property name="ccType" column="CCTYPE"></property>
+			</join>
+		</subclass>
+
+		<subclass name="in.co.rays.Cheque"
+			discriminator-value="Cheque">
+			<join table="CHEQUE_PAYMENT">
+				<key column="PAYMENT_ID" />
+				<property name="chqNumber" column="ChequeNumber"></property>
+				<property name="bankName" column="NameBank"></property>
+			</join>
+		</subclass>
+
+		<!-- <joined-subclass name="in.co.rays.CreditCard" table="CREDIT_PAYMENT"> 
+			<key column="PAYMENT_ID"></key> <property name="ccType" column="CCTYPE"></property> 
+			</joined-subclass> <joined-subclass name="in.co.rays.Cheque" table="CHEQUE_PAYMENT"> 
+			<key column="PAYMENT_ID"></key> <property name="chqNumber" column="CHQ_NUMBER"></property> 
+			<property name="bankName" column="BANK_NAME"></property> </joined-subclass> -->
+	</class>
+</hibernate-mapping>
